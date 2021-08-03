@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "Story of Learning and Studying"
 title_separator          : "&#124;"
-subtitle                 : "1st story" # site tagline that appears below site title in masthead
+subtitle                 : "Mathematics & Data Science" # site tagline that appears below site title in masthead
 name                     : "Youjin Lee"
 description              : "Notes of studying math and data science and sharing interests"
 url                      : "https://github.com/leeyoujin0221/leeyoujin0221.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
